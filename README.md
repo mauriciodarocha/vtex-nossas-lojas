@@ -41,11 +41,11 @@ xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce">
 
 ##Crie uma rota
 
-+ Entre em Páginas de Vitrines(v2) no sistema admin da Vtex
-+ Em / crie um folder chamado nossas-lojas (é o caminho utilizado pelo código, importante estar como no código)
-+ Em nossas-lojas (acabado de criar), crie dados (também utilizado pelo código)
-+ Crie um layout o nome não é importante sugiro dados. E aponte para o template xml
-+ Cole o xml que você exportou dentro do placeholder que já existe neste template
+1. Entre em Páginas de Vitrines(v2) no sistema admin da Vtex
+2. Em / crie um folder chamado nossas-lojas (é o caminho utilizado pelo código, importante estar como no código)
+3. Em nossas-lojas (acabado de criar), crie dados (também utilizado pelo código)
+4. Crie um layout o nome não é importante sugiro dados. E aponte para o template xml
+5. Cole o xml que você exportou dentro do placeholder que já existe neste template
 
 ##Crie um template para "Nossas lojas"
 
