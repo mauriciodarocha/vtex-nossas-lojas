@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="dados">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="loja" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="loja">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="uf" type="xs:string"/>
+                <xs:element name="cidade" type="xs:string"/>
+                <xs:element name="info">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nome" type="xs:string"/>
+                            <xs:element name="endereco" type="xs:string"/>
+                            <xs:element name="google" type="xs:string"/>
+                            <xs:element name="telefone" type="xs:string"/>
+                            <xs:element name="funcionamento" type="xs:string"/>
+                            <xs:element name="img" type="xs:string"/>
+                            <xs:element name="lat" type="xs:string"/>
+                            <xs:element name="lng" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

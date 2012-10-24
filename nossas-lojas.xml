@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dados>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Barueri</cidade>
+		<info>
+			<nome>Tamboré</nome>
+			<endereco>Alameda Araguaia, 3023 - Alphaville - CEP: 06455-000</endereco>
+			<google>Alameda Araguaia, 3023 - Tamboré </google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h
+Domingos e feriados das 9h às 20h</funcionamento>
+			<img>/arquivos/Tambore.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Brangança Paulista</cidade>
+		<info>
+			<nome>Brangança Paulista</nome>
+			<endereco>Avenida Dom Pedro I, 2766 - Taboão - CEP: 12914-481</endereco>
+			<google>Avenida Dom Pedro I, 2766, Bragança Paulista</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 9h às 21h
+Domingos e feriados das 9h às 17h</funcionamento>
+			<img>/arquivos/Braganca.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Campinas</cidade>
+		<info>
+			<nome>Dom Pedro</nome>
+			<endereco>Avenida Guilherme Campos, 500 Bloco II - Santa Genebra - CEP: 13087-635</endereco>
+			<google>Av. Guilherme Campos, 500 - Parque das Flores</google>
+			<telefone/>
+			<funcionamento>Segunda a Sábado das 9h às 22h
+Domingos das 10h às 20h</funcionamento>
+			<img>/arquivos/Dom_Pedro.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Guarulhos</cidade>
+		<info>
+			<nome>Guarulhos</nome>
+			<endereco>Avenida Presidente Tancredo de Almeida Neves, 1261 - Bom Jesus - CEP: 07112-900</endereco>
+			<google>Av. Pres. Tancredo de Almeida Neves, 1261 - São Roque</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h
+Domingos e feriados das 10h às 20h</funcionamento>
+			<img>/arquivos/Guarulhos.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Guarulhos</cidade>
+		<info>
+			<nome>Vila Galvão</nome>
+			<endereco>Av. Sete de Setembro, 1970 - Vila Galvão, 07064-002</endereco>
+			<google>Av. Sete de Setembro, 1970 - Vila Galvão</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 21h
+Domingos e feriados das 10h às 18h</funcionamento>
+			<img>/arquivos/Vila_Galvao.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Jundiaí</cidade>
+		<info>
+			<nome>Jundiaí</nome>
+			<endereco>Rua Cica, 201 - Francisco Eber - CEP: 13206-900</endereco>
+			<google>R. Cica, 201 - Vianelo Bonfiglioli</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8 às 22h
+Domingos e feriados das 10 às 18h</funcionamento>
+			<img>/arquivos/Jundiai.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Osasco</cidade>
+		<info>
+			<nome>Osasco</nome>
+			<endereco>Avenida dos Autonomistas, 896 - Vila Yara - 
+CEP: 06020-015</endereco>
+			<google>Av. dos Autonomistas, 896 - Industrial Autonomistas</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h
+Domingos e feriados das 9h às 20h</funcionamento>
+			<img>/arquivos/Osasco.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Piracicaba</cidade>
+		<info>
+			<nome>Piracicaba</nome>
+			<endereco>Avenida Doutor Cassio Paschoal Padovani, 1800 - Morumbi - CEP: 13420-360
+</endereco>
+			<google>Av. Dr. Cássio Pascoal Padovani, 1800 - Santa Cecília</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 21h
+Domingos e feriados das 10h às 20h</funcionamento>
+			<img>/arquivos/Piracicaba.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Praia Grande</cidade>
+		<info>
+			<nome>Praia Grande</nome>
+			<endereco>Avenida Ayrton Senna da Silva, 1511 Intermares - Ancora C - CEP: 11726-000
+</endereco>
+			<google>Av. Ayrton Senna da Silva, 1511 - Sítio do Campo</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 9h às 22h&lt;br/&gt;
+Domingos e feriados das 10h às 22h</funcionamento>
+			<img>/arquivos/Praia_Grande.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Presidente Prudente</cidade>
+		<info>
+			<nome>Presidente Prudente</nome>
+			<endereco>Avenida Manoel Goulart, 3560 - Jardim das Rosas - CEP: 19060-000</endereco>
+			<google>Av. Msr Goulart, 3560</google>
+			<telefone/>
+			<funcionamento>Segunda a sexta das 8h às 19h&lt;br/&gt;
+Sábados das 8h às 18h&lt;br/&gt;
+Domingos das 10h às 16h</funcionamento>
+			<img>/arquivos/Presidente_Prudente.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Ribeirão Preto</cidade>
+		<info>
+			<nome>Ribeirão Preto</nome>
+			<endereco>Rua Pedro Pegoraro, 99 - Nova Ribeirania - CEP: 14096-440
+</endereco>
+			<google>R. Pedro Pegoraro, 99 - Subsetor Leste 6</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 9h às 21h&lt;br/&gt;
+Domingos e feriados das 11h às 19h</funcionamento>
+			<img>/arquivos/Ribeirao_Preto.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Santo André</cidade>
+		<info>
+			<nome>Santo André</nome>
+			<endereco>Avenida Pereira Barreto, 1.277 - Vila Apiai - CEP: 09190-610</endereco>
+			<google>Av. Pereira Barreto, 1277 - Jardim Stella</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 10h às 18h</funcionamento>
+			<img>/arquivos/Santo_Andre_I.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Santo André</cidade>
+		<info>
+			<nome>Santo André II</nome>
+			<endereco>Avenida Pereira Barreto, 2.444 - Jardim Bom Pastor - CEP: 09190-210</endereco>
+			<google>Av. Pereira Barreto, 2444 - Jardim Bom Pastor</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 10h às 18h</funcionamento>
+			<img>/arquivos/Santo_Andre_II.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São José dos Campos</cidade>
+		<info>
+			<nome>São José dos Campos</nome>
+			<endereco>Avenida Cassiano Ricardo, 2.183 - Jardim Alvorada - CEP: 12240-540
+</endereco>
+			<google>Av. Cassiano Ricardo, 2183 - Residencial Sunset</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Sao_Jose_dos_Campos.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Aricanduva</nome>
+			<endereco>Rua Comendador Gil Pinheiro, 463 - Vila Carrão - CEP: 03406-000
+</endereco>
+			<google>R. Comendador Gil Pinheiro, 463 - Carrão</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img/>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Aricanduva II</nome>
+			<endereco>Avenida Aricanduva, 6470 - Aricanduva - CEP: 03930-110
+</endereco>
+			<google>Av. Aricanduva, 6470 - Aricanduva</google>
+			<telefone/>
+			<funcionamento>Segunda a Sábado das 8h à 22h&lt;br/&gt;
+Domingos e Feriados das 9h às 18h
+</funcionamento>
+			<img>/arquivos/Aricanduva_II.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Campo Limpo</nome>
+			<endereco>Rua Nossa Senhora do Bom Conselho, 170 - Chácara Nossa Senhora do Bom Conselho - CEP:05763-470
+</endereco>
+			<google>R. Ns. do Bom Conselho, 170 - Campo Limpo</google>
+			<telefone/>
+			<funcionamento>Segunda a Sábado das 8h às 21h&lt;br/&gt;
+Domingos e Feriados das 9h às 17h
+</funcionamento>
+			<img>/arquivos/Campo_Limpo.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Imigrantes</nome>
+			<endereco>Avenida Prof. Abraão de Moraes, 2200 - Jardim da Saúde - CEP: 04123-010
+</endereco>
+			<google>Av. Prof. Abraão de Morais, 2200 - Saúde</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Imigrantes.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Marginal</nome>
+			<endereco>Avenida Presidente Castelo Branco, 6201 - Água Branca - CEP: 05034-000
+</endereco>
+			<google>Av. Pres. Castelo Branco, 6201 - Barra Funda</google>
+			<telefone/>
+			<funcionamento>24 horas</funcionamento>
+			<img>/arquivos/Marginal.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Morumbi</nome>
+			<endereco>Avenida Roque Petroni Júnior, 1226 - Jardim das Acácias - CEP: 04707-000
+</endereco>
+			<google>Av. Roque Petroni Júnior, 1226 - Itaim Bibi</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos das 9h às 21hs&lt;br/&gt;
+Feriados das 9h às 22h
+</funcionamento>
+			<img>/arquivos/Morumbi.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Pró Aricanduva</nome>
+			<endereco>Rua Comendador Gil Pinheiro, 463 Bloco 2 - Vila Carrão - CEP: 03406-000
+</endereco>
+			<google>R. Comendador Gil Pinheiro, 463 - Carrão</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 7h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 18h
+</funcionamento>
+			<img>/arquivos/Pro_Aricanduva.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Francisco Morato</nome>
+			<endereco>Avenida Professor Francisco Morato, 4228 - Butantã - CEP: 05520-200
+</endereco>
+			<google>Av. Prof. Francisco Morato, 4228 - Vila Sônia</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 7h às 21h&lt;br/&gt;
+Domingos e feriados das 9h às 18h
+</funcionamento>
+			<img>/arquivos/Pro_Francisco_Morato.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Pró Marginal</nome>
+			<endereco>Avenida Presidente Castelo Branco, 7849 - Água Branca - CEP: 05034-000
+</endereco>
+			<google>Av. Pres. Castelo Branco, 7849 - Barra Funda</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 6h30 às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 18h
+</funcionamento>
+			<img>/arquivos/Pro_Marginal.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Santo Amaro</nome>
+			<endereco>Praça Dom Francisco de Souza, 126 - Santo Amaro - CEP: 04745-050
+</endereco>
+			<google>Praça Dom Francisco de Sousa, 126 - Santo Amaro</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 18h&lt;br/&gt;
+Feriados aos sábados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Santo_Amaro.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Tatuapé</nome>
+			<endereco>Rua Santa Lucia, 97 - Tatuapé - CEP: 03304-060
+</endereco>
+			<google>R. Santa Lúcia, 97 - Tatuape</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Tatuape.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Telhanorte Conceito</nome>
+			<endereco>Avenida Brasil, 1987 - Jardins - CEP: 01431-001
+</endereco>
+			<google>Av. Brasil, 1987 - Jardim Paulista</google>
+			<telefone>Telefone: (11) 2139-9650</telefone>
+			<funcionamento>De segunda a sexta das 9h às 20h&lt;br/&gt;
+Sábado das 9h às 18h
+</funcionamento>
+			<img>/arquivos/Telhanorte_Conceito.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>São Paulo</cidade>
+		<info>
+			<nome>Zona Norte</nome>
+			<endereco>Rua Coroa, 1396 - Vila Guilherme, São Paulo, 02047-020
+</endereco>
+			<google>R. da Coroa, 1396 - Vila Guilherme</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Zona_Norte.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Sorocaba</cidade>
+		<info>
+			<nome>Sorocaba</nome>
+			<endereco>Avenida Antonio Carlos Comitre, 140 - Água Vermelha - CEP: 18047-620
+</endereco>
+			<google>Av. Antônio Carlos Comitre, 140 - Jardim América</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 10h às 20h
+</funcionamento>
+			<img>/arquivos/Sorocaba.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Sumaré</cidade>
+		<info>
+			<nome>Anhanguera</nome>
+			<endereco>Rodovia Anhangüera, s/n km 106 - Jardim São Judas Tadeu (Nova Veneza) - CEP: 13180-902
+</endereco>
+			<google>Rod. Anhangüera, 106 - Sumaré </google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 10h às 18h
+</funcionamento>
+			<img>/arquivos/anhanguera.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>SP</uf>
+		<cidade>Taboão da Serra</cidade>
+		<info>
+			<nome>Taboão da Serra</nome>
+			<endereco>Estrada São Francisco 2059, Loja 95 - Jardim das Oliveiras - CEP: 06765-000
+</endereco>
+			<google>Estr. São Francisco, 2059</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 9h às 22h&lt;br/&gt;
+Domingos e feriados das 10h às 20h
+</funcionamento>
+			<img>/arquivos/Taboao.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>MG</uf>
+		<cidade>Belo Horizonte</cidade>
+		<info>
+			<nome>Belverde</nome>
+			<endereco>Rua Maria Luiza Santiago, 25 - Santa Lucia - CEP: 30360-740
+</endereco>
+			<google>R. Maria Luiza Santiago, 25 - Santa Lúcia</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h</funcionamento>
+			<img>/arquivos/Belvedere.JPG</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>MG</uf>
+		<cidade>Belo Horizonte</cidade>
+		<info>
+			<nome>Pampulha</nome>
+			<endereco>Avenida Presidente Antonio Carlos, 6510 - Lagoinha - CEP: 31210-000
+</endereco>
+			<google>Av. Pres. Antônio Carlos, 6510 - Campus da UFMG</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Pampulha.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>MG</uf>
+		<cidade>Contagem</cidade>
+		<info>
+			<nome>Contagem</nome>
+			<endereco>Avenida General David Sarnoff, 4840 - Cidade Industrial - CEP: 32210-110
+</endereco>
+			<google>Av. Gen. David Sarnoff, 4840 - Cidade Industrial</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 22h&lt;br/&gt;
+Domingos e feriados das 9h às 20h
+</funcionamento>
+			<img>/arquivos/Contagem.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>MG</uf>
+		<cidade>Urbelândia</cidade>
+		<info>
+			<nome>Urbelândia</nome>
+			<endereco>Avenida Rondon Pacheco, 500 - Copacabana - CEP: 38408-343
+</endereco>
+			<google>Av. Governador Rondon Pacheco - Pista Lateral, 500 - Tabajaras</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 21h&lt;br/&gt;
+Domingos e feriados das 10h às 18h&lt;br/&gt;
+Feriados aos sábados das 10h às 18h
+</funcionamento>
+			<img>/arquivos/Urbelandia.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>PR</uf>
+		<cidade>Londrina</cidade>
+		<info>
+			<nome>Catuai</nome>
+			<endereco>Rodovia Celso Garcia Cid, km 377 Loja AE/01 - Gleba FazenaPalhano - CEP: 86050-901
+</endereco>
+			<google>Av. Celso Garcia Cid, 377 - Vl Ipiranga</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 10h às 22h&lt;br/&gt;
+Domingos e Feriados das 14h às 20h</funcionamento>
+			<img>/arquivos/Catuai.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>PR</uf>
+		<cidade>Londrina</cidade>
+		<info>
+			<nome>Tiradentes</nome>
+			<endereco>Avenida Tiradentes, 2760 - Rodocentro - CEP: 86071-000
+</endereco>
+			<google>Av. Tiradentes, 2760 - Jardim Leonor</google>
+			<telefone/>
+			<funcionamento>Segunda a sexta das 8h às 19h&lt;br/&gt;
+Sábado das 8h às 17h</funcionamento>
+			<img>/arquivos/Tirandentes.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+	<loja>
+		<uf>PR</uf>
+		<cidade>Maringá</cidade>
+		<info>
+			<nome>Maringá</nome>
+			<endereco>Avenida Colombo, 3361 - Parque Industrial Bandeirantes - CEP: 87030-120
+</endereco>
+			<google>Av. Colombo, 3361 - Zona 10</google>
+			<telefone/>
+			<funcionamento>Segunda a sábado das 8h às 20h</funcionamento>
+			<img>/arquivos/Maringa.jpg</img>
+			<lat/>
+			<lng/>
+		</info>
+	</loja>
+</dados>
