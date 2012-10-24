@@ -7,7 +7,7 @@ Plugin para criação de página nossas lojas com google maps.
 
 Preencha a planilha de excel com os dados de acordo com cada coluna.
 
-Importante saber:
+**Importante saber:**
 
 * os valores são agrupados por estados e cidades. Ou seja, SP é diferente de Sp e de sp, e São Paulo é diferente de SÃO PAULO e SãO PAULO. Ou seja, qualquer caracter diferente terá um agrupamento diferente. Dê preferência para tudo maiúsculas no estado, e maiúsculas e minúsculas em cidades. Ex. SP e São Paulo.
 * o nome da loja deve ter um nome diferente em cada cidade, pois se houver duplicidade abrirá todos de mesmo nome. Se for o caso, pode-se utilizar o bairro ou qualquer outra informação. Mude no javascript (labels) de acordo. Ex. usando Bairro, mude Loja: para Bairro:
@@ -17,13 +17,13 @@ Importante saber:
 
 ##Exportar xml
 
-Você deve exportar sua planilha em formato xml.
+Você deve exportar sua planilha em formato **xml**.
 
-Para isso existe no excel uma aba "Desenvolvedor" (Developer) com uma opção exportar.
+Para isso existe no excel uma aba **Desenvolvedor** (Developer) com uma opção exportar.
 
 Senão houver está opção, procure em opções e ative esta aba.
 
-Não utilize outra planilha. Está planilha está mapeada para exportar os campos em xml corretamente. Veja isto em uma coluna a direita em Desenvolvedor > Código fonte
+**NÃO** utilize outra planilha. Está planilha está **mapeada** para exportar os campos em xml corretamente. Veja isto em uma coluna a direita em **Desenvolvedor > Código fonte**
 
 ##Crie um template para o xml
 
@@ -41,11 +41,11 @@ xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce">
 
 ##Crie uma rota
 
-1. Entre em Páginas de Vitrines(v2) no sistema admin da Vtex
-2. Em / crie um folder chamado nossas-lojas (é o caminho utilizado pelo código, importante estar como no código)
-3. Em nossas-lojas (acabado de criar), crie dados (também utilizado pelo código)
-4. Crie um layout o nome não é importante sugiro dados. E aponte para o template xml
-5. Cole o xml que você exportou dentro do placeholder que já existe neste template
+1. Entre em **Páginas de Vitrines(v2)** no sistema admin da Vtex
+2. Em **/** crie um folder chamado **nossas-lojas** (é o caminho utilizado pelo código, importante estar como no código)
+3. Em **nossas-lojas** (que você acabou de criar), crie um outro folder chamado **dados** (também utilizado pelo código)
+4. Crie um layout, o nome não é importante, sugiro **dados**. E aponte para o **template xml**
+5. Cole o **xml** que você **exportou** dentro do **placeholder** que já existe neste template
 
 ##Crie um template para "Nossas lojas"
 
