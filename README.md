@@ -1,7 +1,7 @@
 vtex-nossas-lojas (beta)
 ========================
 
-Plugin para criação de página nossas lojas com google maps.
+Código javascript para criação de página nossas lojas com google maps.
 
 ##Preparação
 
