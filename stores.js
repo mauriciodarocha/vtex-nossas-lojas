@@ -2,7 +2,7 @@ var _stores = {
     labels: ['Estado:','Cidade:','Loja:'],
     icons: ['pointer_icon.png','pointer_icon_shadow.png'],
     sort: false,
-    url: "http://"+document.location.host+"/nossaslojas/dados",
+    url: "http://"+document.location.host+"/nossas-lojas/dados",
     ufs: [],
     cities: [],
     stores: [],
@@ -192,10 +192,16 @@ var _stores = {
                 url: _stores.url,
                 success: function(data)
                 {
-                    var result = data.match(/<dados>([\S\s]*?)(.+)dados>/g)[0];
-                    _stores.xml = _stores.convert.StringtoXML(result);
-                    _stores.set.environment();
-                    _stores.place.stores();
+                    var result = data.match(/<dados([\S\s]*?)(.+)dados>/g);
+                            
+                    if(result!=null)
+                    {
+                        _stores.xml = _stores.convert.StringtoXML(result[0]);
+                        _stores.set.environment();
+                        _stores.place.stores();
+                    }
+                    else 
+                        alert("Não foi encontrado os dados para Nossas Lojas.\nVerifique a url e se o xml está inserido.");
                 }
             });                    
         },
