@@ -74,9 +74,27 @@ Estes divs receberão os seletores e todos os mapas e informações.
 
 O css é que comanda grande parte da aparência e de como o código vai se comportar.
 
-O código adiciona classes como open, colapsed em divs para que eles sejam mostrados na tela.
+O código adiciona classes como open, collapsed em divs para que eles sejam mostrados na tela.
 
 Sem o css, tudo será mostrado de uma única vez.
+
+Segue um exemplo simples.
+
+```css
+.state-wrapper {
+    display: none;
+}
+.state-wrapper.open {
+    display: block;
+}
+
+.info-wrapper {
+    display: none;
+}
+.info-wrapper.open {
+    display: block;
+}
+```
 
 Portanto, se houver dúvida em como montar o css. Verifique lojas que já tem o código funcionando. Ex. telhanorte.com.br, rihappy.com.br
 
