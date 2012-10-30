@@ -68,7 +68,7 @@ Coloque as linhas abaixo em seu template.
 É importante que seja mantido os nomes das classes e os divs aqui existentes.
 Estes divs receberão os seletores e todos os mapas e informações.
 
-##O terror da formatação (css)
+##O css
 
 É um pouco complicado a primeira vista, mas não é tão complicado assim. :)
 
