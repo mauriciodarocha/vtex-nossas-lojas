@@ -2,7 +2,7 @@ var _stores = {
     labels: ['Estado:','Cidade:','Loja:'],
     icons: ['pointer_icon.png','pointer_icon_shadow.png'],
     sort: false,
-    url: "http://"+document.location.host+"/nossas-lojas/dados",
+    url: 'http://'+document.location.host+'/' + _stores_folder + '/dados',
     ufs: [],
     cities: [],
     stores: [],
@@ -281,7 +281,7 @@ var _stores = {
                 
                 text = jQuery(item).find("nome").text();
                 text_link = text.replace(/ /g,"");
-                div_classname = jQuery(item).find("cidade").text().replace(/ /g,"");
+                div_classname = jQuery(item).find("cidade").text().replace(/[^a-z0-9]+/g,"");
                 store_classname = jQuery(item).find("nome").text().replace(/ /g,"");
                 
                 info_wrapper_div = jQuery('<div/>').addClass('info-wrapper').addClass('info-wrapper-'+text_link);
@@ -365,7 +365,7 @@ var _stores = {
         info: function(selected_city)
         {
             jQuery(".store-container").removeClass("open");
-            jQuery(".store-container-"+selected_city.replace(/ /g,"")).addClass("open");
+            jQuery(".store-container-"+selected_city.replace(/[^a-z0-9]+/g,"")).addClass("open");
             jQuery(".store-wrapper").addClass("collapsed");
         },
         all_info: function()

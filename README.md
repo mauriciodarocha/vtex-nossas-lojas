@@ -54,6 +54,9 @@ Crie um template como é feito normalmente.
 Coloque as linhas abaixo em sua &lt;head&gt; juntamente com seus scripts, metatags e link tags:
 
 ```html
+<script type="text/javascript">
+var _stores_folder = 'nossas-lojas';
+</script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script type="text/javascript" src="/arquivos/stores.js"></script>
 ```
