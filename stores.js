@@ -280,10 +280,9 @@ var _stores = {
                 if(jQuery(item).find("cidade").length<=0) return false;
                 
                 text = jQuery(item).find("nome").text();
-                text_link = text.replace(/ /g,"");
-                div_classname = jQuery(item).find("cidade").text().replace(/[^a-z0-9]+/g,"");
-                store_classname = jQuery(item).find("nome").text().replace(/ /g,"");
-                
+                text_link = text.replace(/[^a-z0-9]+/ig,"");
+                div_classname = jQuery(item).find("cidade").text().replace(/[^a-z0-9]+/ig,"");
+				
                 info_wrapper_div = jQuery('<div/>').addClass('info-wrapper').addClass('info-wrapper-'+text_link);
                 info_div = jQuery('<div/>').addClass('info-container');
                 
@@ -358,14 +357,14 @@ var _stores = {
         },
         store: function(selected_store)
         {
-            jQuery(".store-title-"+selected_store.replace(/ /g,"")).click();
+            jQuery(".store-title-"+selected_store.replace(/[^a-z0-9]+/ig,"")).click();
             // jQuery(".info-wrapper").removeClass("open");
             // jQuery(".info-wrapper-"+selected_store.replace(/ /g,"")).addClass("open").removeClass("collapsed");
         },
         info: function(selected_city)
         {
             jQuery(".store-container").removeClass("open");
-            jQuery(".store-container-"+selected_city.replace(/[^a-z0-9]+/g,"")).addClass("open");
+            jQuery(".store-container-"+selected_city.replace(/[^a-z0-9]+/ig,"")).addClass("open");
             jQuery(".store-wrapper").addClass("collapsed");
         },
         all_info: function()
